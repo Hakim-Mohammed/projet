@@ -101,6 +101,11 @@ ul li {
 
  p { 
      font-size: 20px; 
+     font-family: 'Shrikhand', cursive;
+   
+}
+summary{
+    font-family: 'Shrikhand', cursive;
 }
 
  img {
@@ -114,6 +119,11 @@ ul li {
     width: 50%;
     height: 500px;
     margin-bottom: 40px;
+    margin-top: 135px;
+}
+.fb {
+    width: 400px;
+    height: 500px;
 }
 
 
@@ -124,7 +134,8 @@ ul li {
     justify-content: center;
     align-items: center;
     background-color: #E94D14 ;
-    height: 40px;   
+    height: 40px;  
+    font-family: 'Chewy', cursive; 
 }
  footer img {
     float: left; 
